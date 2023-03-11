@@ -1,0 +1,53 @@
+body{background-color:white; margin: 0;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:visible;
+    background-color: #ffffff;
+    position: absolute; top: 58px; opacity: 100%;}
+
+
+h1{color: rgb(0, 0, 0);font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: center; background-color: #ffffff;margin: 50; font-size: 50;}
+
+
+
+#musicnotes{width: 15%; position: absolute; top: 650px; left: 125px;}
+#learningstaff{width: 20%; position:absolute; top: 875px; left: 130px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(0, 0, 0);}
+#saxexercise{width: 20%; position: absolute; top: 875px; left: 595px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(0, 0, 0);}
+#saxscale{width: 25%; position: absolute; top: 650px; left: 550px;}
+#saxfingeringtext{width: 25%; position: absolute; top: 875px; left: 1100px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(0, 0, 0);}
+#saxfingering{width: 20%; position: absolute; top: 500px; left: 1050px;}
+#littlesaxdude{position: absolute; top: 0px; right: 25px; width: 10%;}
+#bodytext{position:absolute; text-align: center; color: rgb(0, 0, 0); top: 200px; left: 285px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; width: 60%;}
+#backgroundimage{opacity:30%; position:relative}
+#jazzmusic{position: absolute; top: 1100px; left: 585px; opacity: 0%;}
+#jazzpianomusic{opacity: 0%;}
+#titletext2{color: rgb(0, 0, 0);font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: center; background-color: #333;margin: 50; font-size: 50;}
+#backgroundimage2{width: 100%;}
+#littlesaxdudehome{position: absolute; top: 0px;left: 20px; width: 10%;}
+#eazytheorystafftitle{position: absolute; top: 50px; left: 300px;}
+#trebleclefnotes{width: 40%; top: 250px; right: 100px; position: absolute;}
+#staffpagetext1{position:absolute; text-align: center; color: rgb(0, 0, 0); top: 425px; right: 100px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; width: 40%;}
+#treblecleffsharp{width: 20%; position: absolute; left: 25px; top: 550px;}
+#sharpsandflats{position:absolute; text-align: center; color: rgb(0, 0, 0); top: 800px; left: 25px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+#sharpsandflats2{position:absolute; text-align: center; color: rgb(0, 0, 0); top: 825px; left: 25px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+#sharpsandflats3{position:absolute; text-align: center; color: rgb(0, 0, 0); bottom: 300px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+#staffpagebottomtext1{position:absolute; text-align: justify; color: rgb(0, 0, 0); top: 2275px; right: 120px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; width: 40%;}
+#staffpagebottomtext2{position:absolute; text-align: center; color: rgb(0, 0, 0); top: 2320px; right: 90px; width: 40%; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+#musicscore{width: 30%; position: absolute; top: 1700px; right: 200px; border: 5px solid rgb(0, 0, 0); }
+#scalestext{position: absolute; text-align: center; color: rgb(0, 0, 0); top: 175px; right: 290px; width: 60%; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+#twelvescales{width: 60%; position: absolute; top: 400px; left: 50px;}
+#gmajor{position: absolute; top: 530px; right: 225px;}
+#dmajor{position: absolute; top: 650px; right: 225px;}
+#amajor{position: absolute; top: 765px; right: 225px;}
+#emajor{position: absolute; top: 880px; right: 225px;}
+#bmajor{position: absolute; top: 1000px; right: 225px;}
+#fsharpmajor{position: absolute; top: 1115px; right: 225px;}
+#cmajor{position: absolute; top: 1230px; right: 225px;}
+#fmajor{position: absolute; top: 1350px; right: 225px;}
+#fingeringcharttitle{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; position: absolute; left: 500px;}
+#fingeringchartfull{width: 80%; position: absolute; left: 150px; top: 300px;}
+#fingeringcharttext{width: 50%; position: absolute; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; left: 375px; top: 150px; text-align: center;}
+#saxguymessage{position: absolute; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; top: 130px; left: 10px; text-align: center; font-size: small;}
